@@ -1,0 +1,93 @@
+body{
+    padding: 0%;
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+
+}
+p{
+   margin-bottom: 50px;
+}
+.orange-color{
+    color: orange;
+}
+.flex{
+   display: flex; 
+}
+.half{
+    width: 50%;
+}
+
+section{
+    margin-bottom: 100px;
+}
+.link-botton{
+    text-decoration: none;
+    padding: 10px 40px;
+    margin-top: 40px;
+    background-image:linear-gradient(orange,tomato);
+    color: white;
+    border-radius: 40px;
+    font-size: 40px;
+}
+.half img{
+   width:  80%;
+}
+.about-bg{
+    background-image: url(images/shapes/7.png);
+}
+.top-spach{
+    margin-top: 180px;
+    padding-left: 60px;
+}
+.text-center{
+    text-align:center;
+} 
+.recipi{
+    width: 70%;
+    margin-left: 300px;
+}
+.recipi-item{
+    width: 28%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 20px;
+    box-shadow: slategray 1px 10px 50px;
+    border-radius: 30px;
+
+}
+.recipi-item img{
+    width: 100%;
+    border-radius: 20px;
+    height: 330px;
+}
+.tex-whit{
+    color:white;
+}
+
+.additonal-bottom{
+    text-decoration: none;
+    padding: 10px 40px;
+    color: white;
+    background-color: rgb(29,29,29);
+    border:2px solid orange;
+
+}
+.extra{
+    background-color:rgb(29, 29, 29) ;
+    margin: 0;
+}
+.text-and-botton{
+    text-align: center;
+    margin: 100px;
+
+}
+.gray{
+    color: gray;
+}
+.footer-color{
+    background-color: rgb(42, 42, 42);
+    padding: 20px;
+}
